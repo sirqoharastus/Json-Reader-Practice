@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.3026041666666667" />
+        <entry key="app/src/main/res/drawable/ic_emoji.xml" value="0.19628378378378378" />
+        <entry key="app/src/main/res/drawable/ic_forgot_password_icon.xml" value="0.19628378378378378" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.19628378378378378" />
+        <entry key="app/src/main/res/drawable/ic_successfull.xml" value="0.19628378378378378" />
+        <entry key="app/src/main/res/drawable/otp_item_background.xml" value="0.19628378378378378" />
+        <entry key="app/src/main/res/drawable/password_toggle_selector.xml" value="0.19628378378378378" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1367305751765893" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.1367305751765893" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/forgot_password_fragment_cc.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/password_recovery_successful_layout.xml" value="0.15539617486338797" />
+        <entry key="app/src/main/res/layout/recover_password_layout.xml" value="0.15539617486338797" />
+        <entry key="app/src/main/res/layout/reset_your_password_layout.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
